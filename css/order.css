@@ -1,0 +1,14 @@
+#order {
+  background-color: #c2d7e4;
+  font-family: "poppins";
+  form {
+    background-color: #e8f3f9;
+  }
+  .card-body {
+    background-color: #e8f3f9;
+  }
+  .top {
+    background-color: #c2d7e4;
+    border: 0px solid #c2d7e4;
+  }
+}
